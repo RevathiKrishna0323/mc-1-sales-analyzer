@@ -22,6 +22,9 @@ public class SalesRecord {
         this.clicksInSite = clicksInSite;
     }
 
+    public SalesRecord() {
+    }
+
     // Generate Getters and Setters
 
     public String getDate() {
